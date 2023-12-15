@@ -1,0 +1,26 @@
+{
+  "name": "labia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "emailjs": "^4.0.3",
+    "process": "^0.11.10"
+  }
+}
